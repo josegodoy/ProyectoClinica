@@ -1,0 +1,94 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AdmCentro.master.cs" Inherits="Paginas.AdmCentro" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet" />
+    <script src="assets/js/bootstrap.min.js"></script>
+    <link href="CSS/estilos2.css" rel="stylesheet" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+ 
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+        <link rel="stylesheet" href="css/estilos2.css"  type="text/css"/>
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+   <form id="form1" runat="server">
+         <div id="wrapper">
+
+
+            
+                 <div id="top">
+                     
+                     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<asp:Label ID="lblLog" runat="server" ForeColor="#0033CC"></asp:Label> &nbsp;&nbsp;<asp:Label ID="lblCentro" runat="server" ForeColor="#0033CC"></asp:Label>
+                     &nbsp;&nbsp;&nbsp;&nbsp; <asp:LinkButton ID="LinkButton2" runat="server" CausesValidation="False" OnClick="LinkButton2_Click">Cerrar Sesion </asp:LinkButton>
+                     
+
+       &nbsp;
+                     
+
+       </div>
+
+
+
+           
+
+
+
+
+
+      
+
+        <header>
+    <br/>
+    <br/>
+
+      <h1>Sistema para Funcionarios</h1>
+      <h2>Administrador de Centro</h2>
+
+
+  </header>
+
+    <nav>
+         <ul class="nav">
+            <li><a href="centroAgregarBox.aspx">Crear Box</a> </li>
+            <li><a href="centroEditarBox.aspx">Modificar Box</a> </li>
+             <li><a href="centroListarMedicos.aspx">Listar E.Medicos</a> </li>
+
+             <li><a href="#">Reportes</a>
+                              <ul>
+         <li><a href="reporteInsumos.aspx">Reportar Insumos</a></li>
+        <li><a href="reporteBox.aspx">Reportar Uso de Box</a></li>
+      </ul>
+       </li>
+            
+            
+        
+
+        </ul>
+
+  </nav>
+
+       
+           
+       
+        <article>
+            
+             <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                 <link rel="stylesheet" href="css/estilos2.css"  type="text/css"/>
+            </asp:ContentPlaceHolder>
+        &nbsp;</article>
+        
+    
+       
+
+       <footer>
+
+       </footer>
+
+   </div>
+         </form>
+</body>
+</html>

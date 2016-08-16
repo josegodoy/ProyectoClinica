@@ -1,0 +1,114 @@
+\\psf\Home\Desktop\Portafolio\Paginas\bin\Paginas.dll
+\\psf\Home\Desktop\Portafolio\Paginas\bin\Paginas.pdb
+\\psf\Home\Desktop\Portafolio\Paginas\bin\Biblioteca.dll
+\\psf\Home\Desktop\Portafolio\Paginas\bin\Oracle.DataAccess.dll
+\\psf\Home\Desktop\Portafolio\Paginas\bin\Oracle.Web.dll
+\\psf\Home\Desktop\Portafolio\Paginas\bin\Biblioteca.pdb
+\\psf\Home\Desktop\Portafolio\Paginas\obj\Debug\Paginas.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Portafolio\Paginas\obj\Debug\Paginas.dll
+\\psf\Home\Desktop\Portafolio\Paginas\obj\Debug\Paginas.pdb
+F:\2016\ordenado\Portafolio\Paginas\bin\Paginas.dll
+F:\2016\ordenado\Portafolio\Paginas\bin\Paginas.pdb
+F:\2016\ordenado\Portafolio\Paginas\bin\Biblioteca.dll
+F:\2016\ordenado\Portafolio\Paginas\bin\Oracle.DataAccess.dll
+F:\2016\ordenado\Portafolio\Paginas\bin\Oracle.Web.dll
+F:\2016\ordenado\Portafolio\Paginas\bin\Biblioteca.pdb
+F:\2016\ordenado\Portafolio\Paginas\obj\Debug\Paginas.csprojResolveAssemblyReference.cache
+F:\2016\ordenado\Portafolio\Paginas\obj\Debug\Paginas.dll
+F:\2016\ordenado\Portafolio\Paginas\obj\Debug\Paginas.pdb
+G:\2016\ordenado\Portafolio\Paginas\bin\Paginas.dll
+G:\2016\ordenado\Portafolio\Paginas\bin\Paginas.pdb
+G:\2016\ordenado\Portafolio\Paginas\bin\Biblioteca.dll
+G:\2016\ordenado\Portafolio\Paginas\bin\Oracle.DataAccess.dll
+G:\2016\ordenado\Portafolio\Paginas\bin\Oracle.Web.dll
+G:\2016\ordenado\Portafolio\Paginas\bin\Biblioteca.pdb
+G:\2016\ordenado\Portafolio\Paginas\obj\Debug\Paginas.csprojResolveAssemblyReference.cache
+G:\2016\ordenado\Portafolio\Paginas\obj\Debug\Paginas.dll
+G:\2016\ordenado\Portafolio\Paginas\obj\Debug\Paginas.pdb
+C:\Users\Usuario\Desktop\Portafolio\Paginas\bin\Paginas.dll
+C:\Users\Usuario\Desktop\Portafolio\Paginas\bin\Paginas.pdb
+C:\Users\Usuario\Desktop\Portafolio\Paginas\bin\Biblioteca.dll
+C:\Users\Usuario\Desktop\Portafolio\Paginas\bin\Oracle.DataAccess.dll
+C:\Users\Usuario\Desktop\Portafolio\Paginas\bin\Oracle.Web.dll
+C:\Users\Usuario\Desktop\Portafolio\Paginas\bin\Biblioteca.pdb
+C:\Users\Usuario\Desktop\Portafolio\Paginas\obj\Debug\Paginas.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Portafolio\Paginas\obj\Debug\Paginas.dll
+C:\Users\Usuario\Desktop\Portafolio\Paginas\obj\Debug\Paginas.pdb
+C:\Users\Rodolfo\Desktop\1raIteracionTERMINADA\C#\Portafolio\Paginas\bin\Paginas.dll
+C:\Users\Rodolfo\Desktop\1raIteracionTERMINADA\C#\Portafolio\Paginas\bin\Paginas.pdb
+C:\Users\Rodolfo\Desktop\1raIteracionTERMINADA\C#\Portafolio\Paginas\bin\Biblioteca.dll
+C:\Users\Rodolfo\Desktop\1raIteracionTERMINADA\C#\Portafolio\Paginas\bin\Oracle.DataAccess.dll
+C:\Users\Rodolfo\Desktop\1raIteracionTERMINADA\C#\Portafolio\Paginas\bin\Oracle.Web.dll
+C:\Users\Rodolfo\Desktop\1raIteracionTERMINADA\C#\Portafolio\Paginas\bin\Biblioteca.pdb
+C:\Users\Rodolfo\Desktop\1raIteracionTERMINADA\C#\Portafolio\Paginas\obj\Debug\Paginas.csprojResolveAssemblyReference.cache
+C:\Users\Rodolfo\Desktop\1raIteracionTERMINADA\C#\Portafolio\Paginas\obj\Debug\Paginas.dll
+C:\Users\Rodolfo\Desktop\1raIteracionTERMINADA\C#\Portafolio\Paginas\obj\Debug\Paginas.pdb
+\\psf\Home\Desktop\Descargas\C#\Portafolio\Paginas\bin\Paginas.dll
+\\psf\Home\Desktop\Descargas\C#\Portafolio\Paginas\bin\Paginas.pdb
+\\psf\Home\Desktop\Descargas\C#\Portafolio\Paginas\bin\Biblioteca.dll
+\\psf\Home\Desktop\Descargas\C#\Portafolio\Paginas\bin\Oracle.DataAccess.dll
+\\psf\Home\Desktop\Descargas\C#\Portafolio\Paginas\bin\Oracle.Web.dll
+\\psf\Home\Desktop\Descargas\C#\Portafolio\Paginas\bin\Biblioteca.pdb
+\\psf\Home\Desktop\Descargas\C#\Portafolio\Paginas\obj\Debug\Paginas.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Descargas\C#\Portafolio\Paginas\obj\Debug\Paginas.dll
+\\psf\Home\Desktop\Descargas\C#\Portafolio\Paginas\obj\Debug\Paginas.pdb
+C:\Users\José\Desktop\Pj Angelo\Portafolio\Paginas\bin\Paginas.dll
+C:\Users\José\Desktop\Pj Angelo\Portafolio\Paginas\bin\Paginas.pdb
+C:\Users\José\Desktop\Pj Angelo\Portafolio\Paginas\bin\Biblioteca.dll
+C:\Users\José\Desktop\Pj Angelo\Portafolio\Paginas\bin\Oracle.DataAccess.dll
+C:\Users\José\Desktop\Pj Angelo\Portafolio\Paginas\bin\Oracle.Web.dll
+C:\Users\José\Desktop\Pj Angelo\Portafolio\Paginas\bin\Biblioteca.pdb
+C:\Users\José\Desktop\Pj Angelo\Portafolio\Paginas\obj\Debug\Paginas.csprojResolveAssemblyReference.cache
+C:\Users\José\Desktop\Pj Angelo\Portafolio\Paginas\obj\Debug\Paginas.dll
+C:\Users\José\Desktop\Pj Angelo\Portafolio\Paginas\obj\Debug\Paginas.pdb
+C:\Users\José\Desktop\Pj Angelo\Portafolio\Paginas\bin\AjaxControlToolkit.dll
+C:\Users\José\Desktop\Pj Angelo\Portafolio\Paginas\bin\itextsharp.dll
+C:\Users\José\Desktop\Pj Angelo\Portafolio\Paginas\bin\AjaxControlToolkit.pdb
+C:\Users\José\Desktop\PJ Definitivo\Portafolio\Paginas\bin\Paginas.dll
+C:\Users\José\Desktop\PJ Definitivo\Portafolio\Paginas\bin\Paginas.pdb
+C:\Users\José\Desktop\PJ Definitivo\Portafolio\Paginas\bin\AjaxControlToolkit.dll
+C:\Users\José\Desktop\PJ Definitivo\Portafolio\Paginas\bin\Biblioteca.dll
+C:\Users\José\Desktop\PJ Definitivo\Portafolio\Paginas\bin\itextsharp.dll
+C:\Users\José\Desktop\PJ Definitivo\Portafolio\Paginas\bin\Oracle.DataAccess.dll
+C:\Users\José\Desktop\PJ Definitivo\Portafolio\Paginas\bin\Oracle.Web.dll
+C:\Users\José\Desktop\PJ Definitivo\Portafolio\Paginas\bin\Biblioteca.pdb
+C:\Users\José\Desktop\PJ Definitivo\Portafolio\Paginas\bin\AjaxControlToolkit.pdb
+C:\Users\José\Desktop\PJ Definitivo\Portafolio\Paginas\obj\Debug\Paginas.csprojResolveAssemblyReference.cache
+C:\Users\José\Desktop\PJ Definitivo\Portafolio\Paginas\obj\Debug\Paginas.dll
+C:\Users\José\Desktop\PJ Definitivo\Portafolio\Paginas\obj\Debug\Paginas.pdb
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\Portafolio\Paginas\bin\Paginas.dll
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\Portafolio\Paginas\bin\Paginas.pdb
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\Portafolio\Paginas\bin\Biblioteca.dll
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\Portafolio\Paginas\bin\Oracle.DataAccess.dll
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\Portafolio\Paginas\bin\Oracle.Web.dll
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\Portafolio\Paginas\bin\Biblioteca.pdb
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\Portafolio\Paginas\obj\Debug\Paginas.csprojResolveAssemblyReference.cache
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\Portafolio\Paginas\obj\Debug\Paginas.dll
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\Portafolio\Paginas\obj\Debug\Paginas.pdb
+C:\Users\Rodolfo\Desktop\Portafolio\Paginas\bin\Paginas.dll
+C:\Users\Rodolfo\Desktop\Portafolio\Paginas\bin\Paginas.pdb
+C:\Users\Rodolfo\Desktop\Portafolio\Paginas\bin\Biblioteca.dll
+C:\Users\Rodolfo\Desktop\Portafolio\Paginas\bin\Oracle.DataAccess.dll
+C:\Users\Rodolfo\Desktop\Portafolio\Paginas\bin\Oracle.Web.dll
+C:\Users\Rodolfo\Desktop\Portafolio\Paginas\bin\Biblioteca.pdb
+C:\Users\Rodolfo\Desktop\Portafolio\Paginas\obj\Debug\Paginas.csprojResolveAssemblyReference.cache
+C:\Users\Rodolfo\Desktop\Portafolio\Paginas\obj\Debug\Paginas.dll
+C:\Users\Rodolfo\Desktop\Portafolio\Paginas\obj\Debug\Paginas.pdb
+C:\Users\José\Desktop\PortafolioRodolfo\Paginas\bin\Paginas.dll
+C:\Users\José\Desktop\PortafolioRodolfo\Paginas\bin\Paginas.pdb
+C:\Users\José\Desktop\PortafolioRodolfo\Paginas\bin\Biblioteca.dll
+C:\Users\José\Desktop\PortafolioRodolfo\Paginas\bin\Oracle.DataAccess.dll
+C:\Users\José\Desktop\PortafolioRodolfo\Paginas\bin\Oracle.Web.dll
+C:\Users\José\Desktop\PortafolioRodolfo\Paginas\bin\Biblioteca.pdb
+C:\Users\José\Desktop\PortafolioRodolfo\Paginas\obj\Debug\Paginas.csprojResolveAssemblyReference.cache
+C:\Users\José\Desktop\PortafolioRodolfo\Paginas\obj\Debug\Paginas.dll
+C:\Users\José\Desktop\PortafolioRodolfo\Paginas\obj\Debug\Paginas.pdb
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\PortafolioFinal\Paginas\bin\Paginas.dll
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\PortafolioFinal\Paginas\bin\Paginas.pdb
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\PortafolioFinal\Paginas\bin\Biblioteca.dll
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\PortafolioFinal\Paginas\bin\Oracle.DataAccess.dll
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\PortafolioFinal\Paginas\bin\Oracle.Web.dll
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\PortafolioFinal\Paginas\bin\Biblioteca.pdb
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\PortafolioFinal\Paginas\obj\Debug\Paginas.csprojResolveAssemblyReference.cache
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\PortafolioFinal\Paginas\obj\Debug\Paginas.dll
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\PortafolioFinal\Paginas\obj\Debug\Paginas.pdb

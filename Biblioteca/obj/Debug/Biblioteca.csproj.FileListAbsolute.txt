@@ -1,0 +1,64 @@
+\\psf\Home\Desktop\Portafolio\Biblioteca\bin\Debug\Biblioteca.dll
+\\psf\Home\Desktop\Portafolio\Biblioteca\bin\Debug\Biblioteca.pdb
+\\psf\Home\Desktop\Portafolio\Biblioteca\bin\Debug\Oracle.DataAccess.dll
+\\psf\Home\Desktop\Portafolio\Biblioteca\obj\Debug\Biblioteca.dll
+\\psf\Home\Desktop\Portafolio\Biblioteca\obj\Debug\Biblioteca.pdb
+F:\2016\ordenado\Portafolio\Biblioteca\bin\Debug\Biblioteca.dll
+F:\2016\ordenado\Portafolio\Biblioteca\bin\Debug\Biblioteca.pdb
+F:\2016\ordenado\Portafolio\Biblioteca\bin\Debug\Oracle.DataAccess.dll
+F:\2016\ordenado\Portafolio\Biblioteca\obj\Debug\Biblioteca.dll
+F:\2016\ordenado\Portafolio\Biblioteca\obj\Debug\Biblioteca.pdb
+G:\2016\ordenado\Portafolio\Biblioteca\bin\Debug\Biblioteca.dll
+G:\2016\ordenado\Portafolio\Biblioteca\bin\Debug\Biblioteca.pdb
+G:\2016\ordenado\Portafolio\Biblioteca\bin\Debug\Oracle.DataAccess.dll
+G:\2016\ordenado\Portafolio\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+G:\2016\ordenado\Portafolio\Biblioteca\obj\Debug\Biblioteca.dll
+G:\2016\ordenado\Portafolio\Biblioteca\obj\Debug\Biblioteca.pdb
+F:\2016\ordenado\Portafolio\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Portafolio\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Usuario\Desktop\Portafolio\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Usuario\Desktop\Portafolio\Biblioteca\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Usuario\Desktop\Portafolio\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Portafolio\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Usuario\Desktop\Portafolio\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Rodolfo\Desktop\1raIteracionTERMINADA\C#\Portafolio\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Rodolfo\Desktop\1raIteracionTERMINADA\C#\Portafolio\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Rodolfo\Desktop\1raIteracionTERMINADA\C#\Portafolio\Biblioteca\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Rodolfo\Desktop\1raIteracionTERMINADA\C#\Portafolio\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Rodolfo\Desktop\1raIteracionTERMINADA\C#\Portafolio\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\Rodolfo\Desktop\1raIteracionTERMINADA\C#\Portafolio\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Descargas\C#\Portafolio\Biblioteca\bin\Debug\Biblioteca.dll
+\\psf\Home\Desktop\Descargas\C#\Portafolio\Biblioteca\bin\Debug\Biblioteca.pdb
+\\psf\Home\Desktop\Descargas\C#\Portafolio\Biblioteca\bin\Debug\Oracle.DataAccess.dll
+\\psf\Home\Desktop\Descargas\C#\Portafolio\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+\\psf\Home\Desktop\Descargas\C#\Portafolio\Biblioteca\obj\Debug\Biblioteca.dll
+\\psf\Home\Desktop\Descargas\C#\Portafolio\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\José\Desktop\Pj Angelo\Portafolio\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\José\Desktop\Pj Angelo\Portafolio\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\José\Desktop\Pj Angelo\Portafolio\Biblioteca\bin\Debug\Oracle.DataAccess.dll
+C:\Users\José\Desktop\Pj Angelo\Portafolio\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\José\Desktop\Pj Angelo\Portafolio\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\José\Desktop\PJ Definitivo\Portafolio\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\José\Desktop\PJ Definitivo\Portafolio\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\José\Desktop\PJ Definitivo\Portafolio\Biblioteca\bin\Debug\Oracle.DataAccess.dll
+C:\Users\José\Desktop\PJ Definitivo\Portafolio\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\José\Desktop\PJ Definitivo\Portafolio\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\José\Desktop\PJ Definitivo\Portafolio\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\Portafolio\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\Portafolio\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\Portafolio\Biblioteca\bin\Debug\Oracle.DataAccess.dll
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\Portafolio\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\Portafolio\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\Portafolio\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Rodolfo\Desktop\Portafolio\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\Rodolfo\Desktop\Portafolio\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\Rodolfo\Desktop\Portafolio\Biblioteca\bin\Debug\Oracle.DataAccess.dll
+C:\Users\Rodolfo\Desktop\Portafolio\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\Rodolfo\Desktop\Portafolio\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\Rodolfo\Desktop\Portafolio\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\PortafolioFinal\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\PortafolioFinal\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\PortafolioFinal\Biblioteca\bin\Debug\Oracle.DataAccess.dll
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\PortafolioFinal\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\PortafolioFinal\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\José\Desktop\Portafolio\PJ Definitivo\PortafolioFinal\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
